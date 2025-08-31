@@ -1,3 +1,16 @@
 # Iris EDA Project 
+---
+
 ## Description 
-"Exploratory Data Analysis on the Iris dataset using Python, Pandas, Matplotlib, and Seaborn." 
+**Exploratory Data Analysis on the Iris dataset.**
+
+---
+
+## Technologies and Libraries
+- Python
+- Jupyter NoteBook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- 
